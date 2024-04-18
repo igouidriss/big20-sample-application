@@ -11,6 +11,26 @@
     <property name="datetimeType" value="datetime" dbms="postgresql"/>
 
     <include file="config/liquibase/changelog/00000000000000_initial_schema.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20240418184513_added_entity_Table20.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20240418184514_added_entity_Table19.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20240418184515_added_entity_Table18.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20240418184516_added_entity_Table17.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20240418184517_added_entity_Table16.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20240418184518_added_entity_Table15.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20240418184519_added_entity_Table14.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20240418184520_added_entity_Table13.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20240418184521_added_entity_Table12.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20240418184522_added_entity_Table11.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20240418184523_added_entity_Table10.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20240418184524_added_entity_Table9.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20240418184525_added_entity_Table8.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20240418184526_added_entity_Table7.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20240418184527_added_entity_Table6.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20240418184528_added_entity_Table5.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20240418184529_added_entity_Table4.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20240418184530_added_entity_Table3.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20240418184531_added_entity_Table2.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20240418184532_added_entity_Table1.xml" relativeToChangelogFile="false"/>
     <!-- jhipster-needle-liquibase-add-changelog - JHipster will add liquibase changelogs here -->
     <!-- jhipster-needle-liquibase-add-constraints-changelog - JHipster will add liquibase constraints changelogs here -->
     <!-- jhipster-needle-liquibase-add-incremental-changelog - JHipster will add incremental liquibase changelogs here -->
